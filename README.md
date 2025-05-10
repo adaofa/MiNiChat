@@ -16,12 +16,12 @@
 --同理，在chat/build/Desktop_Qt_6_5_3_GCC_64bit-Debug中同样有chat可执行文件，也是用户进行聊天的程序，在命令行输入./chat 127.0.0.1 8000，同样，具体端口设置也可以在nginx.conf中自行设置；
 
 #nginx tcp loadbalance config
-stream {
+stream 
+{
     upstream MyServer {
         server 127.0.0.1:6000 weight=1 max_fails=3 fail_timeout=30s;
         server 127.0.0.1:6002 weight=1 max_fails=3 fail_timeout=30s;
-    }
-    
+    }    
     server {
         proxy_connect_timeout 1s;
         #proxy_timeout 3s;
