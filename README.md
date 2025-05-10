@@ -29,7 +29,9 @@ stream {
         proxy_pass MyServer;
         tcp_nodelay on;
     }
-}    在nginx.conf中加入这一段代码，方式同https://github.com/1289148370/Chatserver。
+}    
+
+在nginx.conf中加入这一段代码，方式同https://github.com/1289148370/Chatserver。
 
 --如果想重新运行这个项目，需要在redis.cpp以及db.cpp中的密码或用户名修改为自己的，
 
