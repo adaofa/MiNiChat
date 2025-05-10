@@ -1,0 +1,10 @@
+/home/zjq/build/CMakeFiles/edit_cache.dir
+/home/zjq/build/CMakeFiles/rebuild_cache.dir
+/home/zjq/build/src/CMakeFiles/edit_cache.dir
+/home/zjq/build/src/CMakeFiles/rebuild_cache.dir
+/home/zjq/build/src/server/CMakeFiles/ChatServer.dir
+/home/zjq/build/src/server/CMakeFiles/edit_cache.dir
+/home/zjq/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/zjq/build/src/client/CMakeFiles/ChatClient.dir
+/home/zjq/build/src/client/CMakeFiles/edit_cache.dir
+/home/zjq/build/src/client/CMakeFiles/rebuild_cache.dir

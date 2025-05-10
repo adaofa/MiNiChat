@@ -1,0 +1,776 @@
+========== 监控开始时间：2025年 04月 24日 星期四 10:00:33 CST ==========
+------ 第 1 次采样：2025年 04月 24日 星期四 10:00:33 CST ------
+[CPU]
+%Cpu(s): 12.5 us,  6.2 sy,  0.0 ni, 81.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 54346                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+     41 ESTABLISHED
+      1 Foreign
+     17 LISTEN
+      1 TIME_WAIT
+
+------ 第 2 次采样：2025年 04月 24日 星期四 10:00:34 CST ------
+[CPU]
+%Cpu(s): 18.8 us, 15.6 sy,  0.0 ni, 65.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 54346                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+     41 ESTABLISHED
+      1 Foreign
+     17 LISTEN
+      2 TIME_WAIT
+
+------ 第 3 次采样：2025年 04月 24日 星期四 10:00:35 CST ------
+[CPU]
+%Cpu(s): 54.5 us, 39.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  6.1 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 54584                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+     93 CLOSE_WAIT
+   3049 ESTABLISHED
+      2 FIN_WAIT1
+     90 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1008 SYN_SENT
+    588 TIME_WAIT
+
+------ 第 4 次采样：2025年 04月 24日 星期四 10:00:37 CST ------
+[CPU]
+%Cpu(s): 48.5 us, 36.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 15.2 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 55097                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    147 CLOSE_WAIT
+   2700 ESTABLISHED
+      9 FIN_WAIT1
+    141 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1092 SYN_SENT
+   1623 TIME_WAIT
+
+------ 第 5 次采样：2025年 04月 24日 星期四 10:00:38 CST ------
+[CPU]
+%Cpu(s): 51.4 us, 37.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 10.8 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 55791                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    394 CLOSE_WAIT
+   2221 ESTABLISHED
+      2 FIN_WAIT1
+    398 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1218 SYN_SENT
+   2820 TIME_WAIT
+
+------ 第 6 次采样：2025年 04月 24日 星期四 10:00:39 CST ------
+[CPU]
+%Cpu(s): 58.1 us, 29.0 sy,  0.0 ni,  3.2 id,  0.0 wa,  0.0 hi,  9.7 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 56563                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    165 CLOSE_WAIT
+   2664 ESTABLISHED
+      5 FIN_WAIT1
+    153 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+     16 SYN_RECV
+   1179 SYN_SENT
+   3734 TIME_WAIT
+
+------ 第 7 次采样：2025年 04月 24日 星期四 10:00:40 CST ------
+[CPU]
+%Cpu(s): 64.9 us, 24.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 10.8 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 57106                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    131 CLOSE_WAIT
+   2698 ESTABLISHED
+     19 FIN_WAIT1
+    109 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1116 SYN_SENT
+   4669 TIME_WAIT
+
+------ 第 8 次采样：2025年 04月 24日 星期四 10:00:42 CST ------
+[CPU]
+%Cpu(s): 60.0 us, 25.7 sy,  0.0 ni,  2.9 id,  0.0 wa,  0.0 hi, 11.4 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 57937                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    279 CLOSE_WAIT
+   2483 ESTABLISHED
+     82 FIN_WAIT1
+    202 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+      7 SYN_RECV
+   1154 SYN_SENT
+   5529 TIME_WAIT
+
+------ 第 9 次采样：2025年 04月 24日 星期四 10:00:43 CST ------
+[CPU]
+%Cpu(s): 61.8 us, 26.5 sy,  0.0 ni,  2.9 id,  0.0 wa,  0.0 hi,  8.8 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 58659                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    192 CLOSE_WAIT
+   2684 ESTABLISHED
+      2 FIN_WAIT1
+    194 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1098 SYN_SENT
+   6314 TIME_WAIT
+
+------ 第 10 次采样：2025年 04月 24日 星期四 10:00:45 CST ------
+[CPU]
+%Cpu(s): 50.0 us, 27.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.5 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 59314                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    213 CLOSE_WAIT
+   2922 ESTABLISHED
+     13 FIN_WAIT1
+    197 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1046 SYN_SENT
+   6957 TIME_WAIT
+
+------ 第 11 次采样：2025年 04月 24日 星期四 10:00:46 CST ------
+[CPU]
+%Cpu(s): 54.3 us, 31.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 14.3 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 59935                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    261 CLOSE_WAIT
+   2752 ESTABLISHED
+     53 FIN_WAIT1
+    211 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1149 SYN_SENT
+   7993 TIME_WAIT
+
+------ 第 12 次采样：2025年 04月 24日 星期四 10:00:47 CST ------
+[CPU]
+%Cpu(s): 51.4 us, 40.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  8.6 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 60596                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    363 CLOSE_WAIT
+   3143 ESTABLISHED
+      1 FIN_WAIT1
+    362 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+    974 SYN_SENT
+   8495 TIME_WAIT
+
+------ 第 13 次采样：2025年 04月 24日 星期四 10:00:49 CST ------
+[CPU]
+%Cpu(s): 55.9 us, 26.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 17.6 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 61412                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    376 CLOSE_WAIT
+   2649 ESTABLISHED
+      4 FIN_WAIT1
+    375 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1187 SYN_SENT
+   9358 TIME_WAIT
+
+------ 第 14 次采样：2025年 04月 24日 星期四 10:00:50 CST ------
+[CPU]
+%Cpu(s): 50.0 us, 35.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 14.7 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 62069                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    262 CLOSE_WAIT
+   3005 ESTABLISHED
+    261 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+     53 SYN_RECV
+   1003 SYN_SENT
+   9954 TIME_WAIT
+
+------ 第 15 次采样：2025年 04月 24日 星期四 10:00:51 CST ------
+[CPU]
+%Cpu(s): 59.4 us, 31.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  9.4 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 62780                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    372 CLOSE_WAIT
+   2918 ESTABLISHED
+      1 FIN_WAIT1
+    366 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+     99 SYN_RECV
+    962 SYN_SENT
+  10495 TIME_WAIT
+
+------ 第 16 次采样：2025年 04月 24日 星期四 10:00:53 CST ------
+[CPU]
+%Cpu(s): 59.5 us, 29.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 10.8 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 63440                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    330 CLOSE_WAIT
+   3083 ESTABLISHED
+      7 FIN_WAIT1
+    314 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+     59 SYN_RECV
+    954 SYN_SENT
+  11054 TIME_WAIT
+
+------ 第 17 次采样：2025年 04月 24日 星期四 10:00:54 CST ------
+[CPU]
+%Cpu(s): 62.9 us, 25.7 sy,  0.0 ni,  2.9 id,  0.0 wa,  0.0 hi,  8.6 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 64216                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    280 CLOSE_WAIT
+   3033 ESTABLISHED
+     20 FIN_WAIT1
+    263 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+     88 SYN_RECV
+    950 SYN_SENT
+  11536 TIME_WAIT
+
+------ 第 18 次采样：2025年 04月 24日 星期四 10:00:55 CST ------
+[CPU]
+%Cpu(s): 52.9 us, 26.5 sy,  0.0 ni,  8.8 id,  0.0 wa,  0.0 hi, 11.8 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 64806                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    434 CLOSE_WAIT
+   2847 ESTABLISHED
+     13 FIN_WAIT1
+    417 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1115 SYN_SENT
+  11987 TIME_WAIT
+
+------ 第 19 次采样：2025年 04月 24日 星期四 10:00:57 CST ------
+[CPU]
+%Cpu(s): 34.2 us, 44.7 sy,  0.0 ni,  2.6 id,  0.0 wa,  0.0 hi, 18.4 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 65540                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    468 CLOSE_WAIT
+   2917 ESTABLISHED
+      5 FIN_WAIT1
+    467 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1051 SYN_SENT
+  12873 TIME_WAIT
+
+------ 第 20 次采样：2025年 04月 24日 星期四 10:00:58 CST ------
+[CPU]
+%Cpu(s): 59.4 us, 31.2 sy,  0.0 ni,  3.1 id,  0.0 wa,  0.0 hi,  6.2 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 66190                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    396 CLOSE_WAIT
+   2739 ESTABLISHED
+      5 FIN_WAIT1
+    399 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+      1 SYN_RECV
+   1166 SYN_SENT
+  13395 TIME_WAIT
+
+------ 第 21 次采样：2025年 04月 24日 星期四 10:00:59 CST ------
+[CPU]
+%Cpu(s): 65.8 us, 21.1 sy,  0.0 ni,  2.6 id,  0.0 wa,  0.0 hi, 10.5 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 66695                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    427 CLOSE_WAIT
+   2426 ESTABLISHED
+     78 FIN_WAIT1
+    334 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+     55 SYN_RECV
+   1117 SYN_SENT
+  13782 TIME_WAIT
+
+------ 第 22 次采样：2025年 04月 24日 星期四 10:01:01 CST ------
+[CPU]
+%Cpu(s): 52.9 us, 38.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  8.8 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 67520                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    505 CLOSE_WAIT
+   3035 ESTABLISHED
+      6 FIN_WAIT1
+    499 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1017 SYN_SENT
+  14223 TIME_WAIT
+
+------ 第 23 次采样：2025年 04月 24日 星期四 10:01:02 CST ------
+[CPU]
+%Cpu(s): 62.2 us, 29.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  8.1 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 68255                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    438 CLOSE_WAIT
+   3114 ESTABLISHED
+      4 FIN_WAIT1
+    433 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1007 SYN_SENT
+  14597 TIME_WAIT
+
+------ 第 24 次采样：2025年 04月 24日 星期四 10:01:04 CST ------
+[CPU]
+%Cpu(s): 67.6 us, 21.6 sy,  0.0 ni,  2.7 id,  0.0 wa,  0.0 hi,  8.1 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 68929                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    462 CLOSE_WAIT
+   2798 ESTABLISHED
+     12 FIN_WAIT1
+    456 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+     10 SYN_RECV
+   1100 SYN_SENT
+  15163 TIME_WAIT
+
+------ 第 25 次采样：2025年 04月 24日 星期四 10:01:05 CST ------
+[CPU]
+%Cpu(s): 55.6 us, 33.3 sy,  0.0 ni,  2.8 id,  0.0 wa,  0.0 hi,  8.3 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 69566                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    451 CLOSE_WAIT
+   2856 ESTABLISHED
+      7 FIN_WAIT1
+    447 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1052 SYN_SENT
+  15588 TIME_WAIT
+
+------ 第 26 次采样：2025年 04月 24日 星期四 10:01:06 CST ------
+[CPU]
+%Cpu(s): 48.5 us, 36.4 sy,  0.0 ni,  3.0 id,  0.0 wa,  0.0 hi, 12.1 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 70108                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    374 CLOSE_WAIT
+   2270 ESTABLISHED
+      1 FIN_WAIT1
+    346 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+   1204 SYN_SENT
+  15867 TIME_WAIT
+
+------ 第 27 次采样：2025年 04月 24日 星期四 10:01:08 CST ------
+[CPU]
+%Cpu(s): 57.1 us, 25.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 17.1 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 71017                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    272 CLOSE_WAIT
+   2950 ESTABLISHED
+      4 FIN_WAIT1
+    210 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+    888 SYN_SENT
+  16145 TIME_WAIT
+
+------ 第 28 次采样：2025年 04月 24日 星期四 10:01:09 CST ------
+[CPU]
+%Cpu(s): 58.8 us, 26.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 14.7 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 71657                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    267 CLOSE_WAIT
+   2879 ESTABLISHED
+      3 FIN_WAIT1
+    188 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+      8 SYN_RECV
+    517 SYN_SENT
+  16139 TIME_WAIT
+
+------ 第 29 次采样：2025年 04月 24日 星期四 10:01:11 CST ------
+[CPU]
+%Cpu(s): 50.0 us, 38.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 11.1 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 72341                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    378 CLOSE_WAIT
+   2316 ESTABLISHED
+     19 FIN_WAIT1
+    123 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+      9 SYN_RECV
+    301 SYN_SENT
+  16257 TIME_WAIT
+
+------ 第 30 次采样：2025年 04月 24日 星期四 10:01:12 CST ------
+[CPU]
+%Cpu(s): 47.1 us, 35.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 17.6 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 73130                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    331 CLOSE_WAIT
+   2199 ESTABLISHED
+      6 FIN_WAIT1
+     93 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+    108 SYN_SENT
+  16285 TIME_WAIT
+
+------ 第 31 次采样：2025年 04月 24日 星期四 10:01:13 CST ------
+[CPU]
+%Cpu(s): 64.9 us, 27.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  8.1 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 73686                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    300 CLOSE_WAIT
+   1509 ESTABLISHED
+      3 FIN_WAIT1
+     96 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+  16286 TIME_WAIT
+
+------ 第 32 次采样：2025年 04月 24日 星期四 10:01:15 CST ------
+[CPU]
+%Cpu(s): 48.6 us, 34.3 sy,  0.0 ni,  2.9 id,  0.0 wa,  0.0 hi, 14.3 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 74321                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+    192 CLOSE_WAIT
+    365 ESTABLISHED
+      4 FIN_WAIT1
+     63 FIN_WAIT2
+      1 Foreign
+     17 LISTEN
+  16315 TIME_WAIT
+
+------ 第 33 次采样：2025年 04月 24日 星期四 10:01:16 CST ------
+[CPU]
+%Cpu(s): 41.9 us, 25.8 sy,  0.0 ni, 25.8 id,  3.2 wa,  0.0 hi,  3.2 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 74982                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+     75 ESTABLISHED
+      1 Foreign
+     17 LISTEN
+  16384 TIME_WAIT
+
+------ 第 34 次采样：2025年 04月 24日 星期四 10:01:17 CST ------
+[CPU]
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 74982                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+     75 ESTABLISHED
+      1 Foreign
+     17 LISTEN
+  16384 TIME_WAIT
+
+------ 第 35 次采样：2025年 04月 24日 星期四 10:01:18 CST ------
+[CPU]
+%Cpu(s):  3.1 us,  6.2 sy,  0.0 ni, 90.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 74982                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+     75 ESTABLISHED
+      1 Foreign
+     17 LISTEN
+  16384 TIME_WAIT
+
+------ 第 36 次采样：2025年 04月 24日 星期四 10:01:20 CST ------
+[CPU]
+%Cpu(s):  0.0 us,  9.7 sy,  0.0 ni, 90.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+[MySQL TPS]
+| Com_delete                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_delete_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert                                            | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_insert_select                                     | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Com_update                                            | 74982                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Com_update_multi                                      | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+[Redis QPS]
+[TCP Connections]
+      1 
+     75 ESTABLISHED
+      1 Foreign
+     17 LISTEN
+  16384 TIME_WAIT
+

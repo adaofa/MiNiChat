@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/flowlight.vert</file>
+        <file>Shaders/flowlight.frag</file>
+    </qresource>
+    <qresource prefix="/">
+    <file>fonts/digital-7 (mono).ttf</file>
+    </qresource>
+</RCC>
